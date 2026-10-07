@@ -24,8 +24,6 @@ expand the domain and create:
   choosing, password set, "must change password at next logon" unchecked.
 - A second OU (e.g. **HR**) with a second test user, same settings.
 
-> Screenshot suggestions: the source archive does not include Phase 3 screenshot files.
-At this point `varun.local` is a functioning domain.
 
 ## Join the endpoint
 
