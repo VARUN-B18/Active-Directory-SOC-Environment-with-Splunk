@@ -97,4 +97,4 @@ techniques without needing a live attacker every time.
 
 ---
 
-*Built by Varun — [LinkedIn] · [GitHub]*
+*Built by Varun — [LinkedIn](https://www.linkedin.com/in/varunb-/) · [GitHub](https://github.com/VARUN-B18)*
